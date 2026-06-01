@@ -30,10 +30,11 @@ Welcome to my portfolio of individual and team projects focused on data science,
 
 #### **[ES] Reporte de Valoración Volcan**
 *Análisis financiero profundo y estimación de valor corporativo desarrollado en equipo para la toma de decisiones de inversión.*
-* 📄 [Ver Reporte Estratégico en PDF](./Reporte%20de%20valoraciòn%20Volcan/Valoración%20Volcan_Grupo%204.pdf) *(Lectura directa e inmediata en el navegador)*
-* 📊 [Descargar Modelo Financiero (Excel)](./Reporte%20de%20valoraciòn%20Volcan/Modelación%20Financiera_Volcan_Grupo%204.xlsx) *(Haga clic en el archivo y luego presione el botón "Download" para descargar la plantilla de cálculo)*
+* 📄 [Ver Reporte en PDF](https://github.com) *(Clic para abrir o descargar el reporte directamente)*
+* 📊 [Descargar Modelo Financiero (Excel)](https://github.com) *(Clic para descargar la plantilla de cálculo)*
 
 #### **[ES] Estimador de Pesos y Tallas Recomendados**
-* 🧮 [Descargar Herramienta de Auditoría (Excel)](./Estimador%20de%20pesos%20y%20tallas%20recomendados%20en%20población%20gerial.xlsx) – *Herramienta automatizada en Excel para el control de métricas gerenciales. (Haga clic en el archivo y luego presione el botón "Download" para descargar el libro ejecutable).*
+* 🧮 [Descargar Herramienta de Auditoría (Excel)](https://github.com) – *Herramienta automatizada en Excel. (Clic para descargar el libro ejecutable).*
+
 
 
