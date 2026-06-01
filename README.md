@@ -36,8 +36,4 @@ Welcome to my portfolio of individual and team projects focused on data science,
 #### **[ES] Estimador de Pesos y Tallas Recomendados**
 * 🧮 [Descargar Herramienta de Auditoría (Excel)](./Estimador%20de%20pesos%20y%20tallas%20recomendados%20en%20población%20gerial.xlsx) – *Herramienta automatizada en Excel para el control de métricas gerenciales. (Haga clic en el archivo y luego presione el botón "Download" para descargar el libro ejecutable).*
 
----
 
-## 📬 Contacto / Contact
-¿Te interesa conversar sobre alguno de estos proyectos o explorar oportunidades de colaboración en ciencia de datos o finanzas? ¡Conéctate conmigo a través de mi central de enlaces!  
-👉 **(linktr.ee/asenciosroberth)**
