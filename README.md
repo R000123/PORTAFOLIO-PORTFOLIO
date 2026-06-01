@@ -5,36 +5,30 @@ Welcome to my portfolio of individual and team projects focused on data science,
 
 ---
 
-## 🚀 Proyectos Disponibles / Available Projects
+## 🚀 Índice de Proyectos / Project Index
 
-### 📊 Ciencia de Datos y Modelado Predictivo / Data Science & Predictive Modeling
-
-#### **[ES/EN] HR Analytics – Predicción de Promociones de Empleados**
-*Modelo de clasificación avanzada (Random Forest) con **94.4% de precisión**, diseñado como un proyecto final para **WE Education** bajo la mentoría de la profesora Ana Lucía Palacios y optimizado para la mitigación de riesgos financieros.*
-
-* 👁️ **[ES]** [Ver Reporte Ejecutivo con Gráficos Interactivos (NBViewer)]([https://nbviewer.org/github/R000123/PORTAFOLIO-PORTFOLIO/blob/a65ea643ba9c9b1210c3fa2111b7437d4bb91f3d/Hr_analytics%20modelo%20predictivo/HR_Analytics_Proyecto_Final_Completo%20%282%29.ipynb)) *(Recomendado para Reclutadores: Un solo clic para ver código y gráficas de Seaborn a color)*
-* 📂 **[ES]** [Explorar Carpeta del Proyecto con Código Fuente](./Hr_analytics%20modelo%20predictivo) *(Para desarrolladores que deseen auditar los archivos `.ipynb` y el dataset)*
+### 📊 1. Ciencia de Datos y Modelado Predictivo / Data Science & Predictive Modeling
+* **HR Analytics – Predicción de Promociones de Empleados:**
+  * **ES:** Modelo de clasificación avanzada (Random Forest) con un **93.3% de Accuracy** y **94.4% de Precisión**, diseñado como proyecto final para **WE Education** bajo la mentoría de la profesora Ana Lucía Palacios. Está optimizado específicamente para el control de pérdidas financieras mediante la penalización estricta de falsos positivos en decisiones de personal.
+  * **EN:** Advanced classification model (Random Forest) achieving **93.3% Accuracy** and **94.4% Precision**, developed as a final project for **WE Education**. It is strictly optimized for corporate loss prevention by penalizing false positives in workforce promotion decisions.
 
 ---
 
-### 📈 Análisis Exploratorio de Datos / Exploratory Data Analysis (EDA)
-
-#### **[ES/EN] Análisis Histórico de la Participación de Perú en los Juegos Olímpicos**
-*Estudio estadístico descriptivo, análisis de tendencias y perfil biofísico de las delegaciones olímpicas peruanas a lo largo de la historia.*
-* 👁️ **[ES]** [Ver Reporte Ejecutivo con Gráficos Interactivos (NBViewer)](
-* 📂 **[ES/EN]** [Ver Proyecto de Análisis Olímpico](./Proyecto%20Data%20Analytics%20anàlisis%20descriptivo)
+### 📈 2. Análisis Exploratorio de Datos / Exploratory Data Analysis (EDA)
+* **Proyecto Data Analytics análisis descriptivo - Análisis Histórico de la Participación de Perú en los Juegos Olímpicos:**
+  * **ES:** Estudio estadístico descriptivo y análisis exploratorio de datos (EDA) centrado en la trayectoria olímpica peruana. Incluye la identificación de las disciplinas más laureadas (Voleibol y Tiro) y un análisis biofísico detallado (edad, peso y estatura) con gráficos de distribución (*Boxplots* e histogramas) de las atletas medallistas.
+  * **EN:** Descriptive statistical study and exploratory data analysis (EDA) focused on Peru's Olympic history. It features the identification of top-performing disciplines (Volleyball and Shooting) and a detailed biophysical profile analysis (age, weight, and height) of medal-winning athletes using distribution plots.
 
 ---
 
-### 💼 Finanzas y Herramientas / Finance & Tools
+### 💼 3. Finanzas Corporativas y Herramientas / Corporate Finance & Tools
+* **Reporte de Valoración de Empresas – Minera Volcan:**
+  * **ES:** Análisis financiero profundo, proyecciones estructuradas y estimación de valor corporativo desarrollado en equipo. Incluye un reporte ejecutivo estratégico y una herramienta interactiva de modelación financiera.
+  * **EN:** Comprehensive financial analysis, structured forecasting, and corporate valuation model developed in a team environment. Includes a strategic executive report and an interactive financial modeling workbook.
 
-#### **[ES] Reporte de Valoración Volcan**
-*Análisis financiero profundo y estimación de valor corporativo desarrollado en equipo para la toma de decisiones de inversión.*
-* 📄 [Ver Reporte en PDF]([https://github.com](https://github.com/R000123/PORTAFOLIO-PORTFOLIO/blob/main/Reporte%20de%20valoraci%C3%B3n%20Volcan/VOLCAN%20Reporte%20final.pdf)) *(Clic para abrir o descargar el reporte directamente)*
-* 📊 [Descargar Modelo Financiero (Excel)]([https://github.com](https://github.com/R000123/PORTAFOLIO-PORTFOLIO/blob/main/Reporte%20de%20valoraci%C3%B3n%20Volcan/VOLCAN%20MINERA%20.xlsx)) *(Clic para descargar la plantilla de cálculo)*
-
-#### **[ES] Estimador de Pesos y Tallas Recomendados**
-* 🧮 [Descargar Herramienta de Auditoría (Excel)]([https://github.com](https://github.com/R000123/PORTAFOLIO-PORTFOLIO/blob/14597797388a8b2ae4d255e5e4343db215e2271f/Estimador%20de%20pesos%20y%20tallas%20recomendados%20en%20poblaci%C3%B3n%20gerial.xlsx)) – *Herramienta automatizada en Excel. (Dar clic descargar el libro ejecutable).*
+* **Estimador de Pesos y Tallas Recomendados:**
+  * **ES:** Herramienta de auditoría y automatización de métricas gerenciales desarrollada en entorno tradicional de hojas de cálculo para el control operativo de datos de población geriátrica.
+  * **EN:** Operations tool designed for metric automation and data auditing, developed in a spreadsheet environment to monitor and control key parameters in specialized population datasets.
 
 
 
