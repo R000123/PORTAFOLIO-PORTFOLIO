@@ -14,7 +14,7 @@
 ## 🇬🇧 English
 
 ### What is this project about?
-Team-based corporate valuation of **Volcán Compañía Minera S.A.A.**, one of Peru's leading zinc, silver, and lead mining companies. The project was developed as part of the **Corporate Finance (MFVE)** course and earned **2nd place** in the final evaluation.
+Team-based corporate valuation of **Volcán Compañía Minera S.A.A.**, one of Peru's leading zinc, silver, and lead mining companies. The project was developed as part of the **Financial Modeling and Business Valuation (MFVE)** course and earned **2nd place** in the final evaluation.
 
 ### Methodology
 The valuation was built using a **Discounted Cash Flow (DCF)** model — the most widely used method in corporate finance — combined with analysis of the company's financial statements and sector context.
@@ -43,7 +43,7 @@ Developed as a team project for the **Financial Modeling and Business Valuation 
 ## 🇵🇪 Español
 
 ### ¿De qué trata este proyecto?
-Valoración corporativa en equipo de **Volcán Compañía Minera S.A.A.**, una de las principales empresas mineras de zinc, plata y plomo del Perú. El proyecto fue desarrollado en el curso de **Finanzas Corporativas (MFVE)** y obtuvo el **2.° puesto** en la evaluación final.
+Valoración corporativa en equipo de **Volcán Compañía Minera S.A.A.**, una de las principales empresas mineras de zinc, plata y plomo del Perú. El proyecto fue desarrollado en el curso de **Modelación Financiera y Valoración de Empresas (MFVE)** y obtuvo el **2.° puesto** en la evaluación final.
 
 ### Metodología
 La valoración se construyó usando un modelo de **Flujo de Caja Descontado (DCF)** — el método más utilizado en finanzas corporativas — combinado con análisis de los estados financieros de la empresa y contexto sectorial.
